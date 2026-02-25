@@ -2142,7 +2142,7 @@ ItemAction = {
 			{ x = 34065, y = 31716, z = 15 },
 		},
 	},
-	-- Rotten Blood, Putrefactory
+	-- Putrefactory: Reservoirs
 	[47953] = {
 		itemId = false,
 		itemPos = {
