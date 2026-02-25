@@ -2116,7 +2116,14 @@ ItemAction = {
 			{ x = 32393, y = 31072, z = 7 },
 		},
 	},
-	-- Putefractory
+	-- Putefractory: Lever
+	[9804] = {
+		itemId = 8911,
+		itemPos = {
+			{ x = 32979, y = 32333, z = 15 },
+		},
+	},
+	-- Putefractory: Teleport onClick
 	[34120] = {
 		itemId = 33017,
 		itemPos = {
